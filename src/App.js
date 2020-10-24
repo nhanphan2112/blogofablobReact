@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="row">
-      <h2>Hellow Nhan, this is your first React page</h2>
+      <div className="col"><h2>Hello Nhan, this is your first React page</h2></div>
     </div>
   );
 }
